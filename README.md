@@ -2,7 +2,7 @@
 
 - ✈️  I’m currently working at [Assailing Falcons](https://assailingfalcons.in/)
 
-- 👨‍💻  Check out my website [sakshambhutani.xyz](https://sakshambhutani.xyz)
+<!--- - 👨‍💻  Check out my website [sakshambhutani.xyz](https://sakshambhutani.xyz)--->
 
 - 📫  Reach me via **sakshambhutani2001@gmail.com**
 
