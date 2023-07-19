@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Bhutani</h1>
 
-- ✈️  I’m currently working at [Assailing Falcons](https://assailingfalcons.in/)
-
 - 👨‍💻  Check out my website [sakshambhutani.xyz](https://sakshambhutani.xyz)
 
 - 📫  Reach me via **sakshambhutani2001@gmail.com**
